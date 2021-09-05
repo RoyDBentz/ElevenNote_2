@@ -24,6 +24,8 @@ namespace ElevenNote.Data
     public class ApplicationDbContext : IdentityDbContext<ApplicationUser>
     {
         public ApplicationDbContext()
+            // "DefaultConnection" is how the application can communicate with the Web.Config file and persist application data.
+                                
             : base("DefaultConnection", throwIfV1Schema: false)
         {
         }
