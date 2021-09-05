@@ -13,3 +13,4 @@ D:\ElevenFifty-Other\ElevenNote2\ElevenNote\ElevenNote.Services\bin\Debug\Entity
 D:\ElevenFifty-Other\ElevenNote2\ElevenNote\ElevenNote.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
 D:\ElevenFifty-Other\ElevenNote2\ElevenNote\ElevenNote.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
 D:\ElevenFifty-Other\ElevenNote2\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.csproj.CopyComplete
+D:\ElevenFifty-Other\ElevenNote2\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.csproj.AssemblyReference.cache
